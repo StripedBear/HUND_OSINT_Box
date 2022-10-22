@@ -1,0 +1,6 @@
+requests~=2.25.1
+beautifulsoup4~=4.10.0
+python-whois~=0.8
+dnspython~=1.16.0
+pygeoip~=0.3.2
+nslookup~=1.5.1
