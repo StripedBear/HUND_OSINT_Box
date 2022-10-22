@@ -1,4 +1,4 @@
-![D'ya Like Dags](https://i.ibb.co/QnT65Jn/hund.png)
+<img src="https://i.ibb.co/pLGqTjt/hund2.png" width="200" alt="D'ya Like Dags"/>
 ### HUND - OSINT Box by StripedBear
 The framework for searching information about a site from open sources
 
@@ -14,17 +14,14 @@ The framework for searching information about a site from open sources
 - ✨Save all items to file✨
 
 #### Installing
-```sh git clone 
-```
+> git clone https://github.com/StripedBear/HUND_OSINT_Box.git
 
-```sh pip3 install -r requirements.txt
-```
+> pip3 install -r requirements.txt
 or
-```sh pip install -r requirements.txt
-```
+> pip install -r requirements.txt
 
-Download [GeoIPCity.dat](https://mailfud.org/geoip-legacy/GeoIPCity.dat.gz) and extract the file to a directory full_scripts/
+`Download [GeoIPCity.dat](https://mailfud.org/geoip-legacy/GeoIPCity.dat.gz) and extract the file to a directory full_scripts/`
 
 #### Run
-```python3 hund.py 
-```
+> python3 hund.py 
+
