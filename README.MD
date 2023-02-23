@@ -27,4 +27,4 @@ or
 #### Run
 > python3 hund.py 
 
-<img src="https://potapov.site/static/appgrigorii/images/projects/hund/img.png" width="200" alt="D'ya Like Dags"/>
+<img src="https://potapov.site/static/appgrigorii/images/projects/hund/img.png" width="500" alt="D'ya Like Dags"/>
